@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">华容道</string>    
+<!--     <string name="server_addr">http://softfile.3g.qq.com:8080/msoft/179/1105/10753/MobileQQ1.0(Android)_Build0198.apk</string> -->
+	<string name="server_addr">http://taoma520.com:777/huarongdaoCheckUpdate.aspx</string>
+	<string name="guanqia_addr">http://taoma520.com:777/huarongdaoGuanKa.aspx</string>
+	<string name="apk_addr">http://taoma520.com:777/HuaRongDao.apk</string>
+	
+</resources>

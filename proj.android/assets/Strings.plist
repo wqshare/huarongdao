@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"/>
+
+<plist version="1.0">
+    <dict>
+        <key>OK</key>
+        <string>确定</string>
+
+        <key>Cancel</key>
+        <string>取消</string>
+
+        <key>prompt</key>
+        <string>提示信息</string>
+
+        <key>resetGame</key>
+        <string>确定重新开始？</string>
+
+        <key>cheat</key>
+        <string>葵花宝典</string>
+
+        <key>complate</key>
+        <string>本次通关共%d步 耗时%02d:%02d:%02d ！</string>
+
+        <key>nextMission</key>
+        <string>下一关</string>
+
+        <key>share</key>
+        <string>分享给好友</string>       
+
+        <key>mission</key>
+        <string>第%d关</string>
+
+        <key>step</key>
+        <string>第%d步</string>
+
+        <key>totalStep</key>
+        <string>共%d步</string>>
+ 
+ 		<key>noPass</key>
+        <string>未完成</string>>
+        
+        <key>selectMission</key>
+        <string>确定结束游戏，通过继续游戏可以回到当前状态？</string>
+
+        <key>time</key>
+        <string>时间: %02d:%02d:%02d</string>
+
+        <key>cheatInfo</key>
+        <string>您当前有%d次使用秘籍的机会，每次使用会减少一次，确定使用？</string>
+
+        <key>noUse</key>
+        <string>不使用</string>
+
+        <key>use</key>
+        <string>使用</string>
+
+        <key>recharge</key>
+        <string>您已经没有可用的葵花宝典，是否购买？ 获取3本葵花宝典只需3元，信息费由合作伙伴代收，收费成功后运行商会向您发送短信。您也可通过点击免费获取按钮来安装应用，免费获得1本葵花宝典！</string>
+
+ 		<key>stepPrompt</key>
+        <string>都走了%d步还没看到希望，不如让葵花宝典来帮你</string>
+
+		<key>DirectMission</key>
+        <string>新手指导%c</string>
+
+        <key>share_msg</key>
+        <string>分享功能暂未开通，敬请期待</string>
+
+        <key>step1</key>
+        <string>拖动小兵往上移动两格</string>
+
+        <key>step2</key>
+        <string>可以转弯哦</string>
+
+        <key>step3</key>
+        <string>张飞退散</string>
+
+        <key>step4</key>
+        <string>最后一个小兵挡道，出逃在望。</string>
+
+        <key>step5</key>
+        <string>华容道口就在眼前，胜利逃走！</string>
+
+        <key>step6</key>
+        <string>总算逃出生天，开始更多的挑战吧？</string>
+
+        <key>fontName</key>
+        <string>华文行楷</string>
+
+        <key>recharge_noEpay</key>
+        <string>您已经没有可用的葵花宝典，点击免费获取来安装应用，我们将免费赠送您1本葵花宝典！</string>
+    </dict>
+</plist>
